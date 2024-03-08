@@ -1,0 +1,2 @@
+OMATCH_ID|MARKET_ID|OUTCOME_ID|SPECIFIERS
+'sr:match:14171347'|215|'894'|'setnr=2|gamenr=6|server=sr:competitor:111783'
